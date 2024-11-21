@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0-only
-/*
+/******
  * Driver for Himax hx83112b touchscreens
  *
  * Copyright (C) 2022 Job Noorman <job@noorman.info>
